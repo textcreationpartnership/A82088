@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from the nobility of the kingdome of Scotland in behalfe of all the commoners of that nation wherein is declared their most loyall resolution, concerning (their dread soveraigne) the Kings most Excellent Majesty. Together with their desires to both houses of Parliament, touching the preservation of His Majesties royall person, and restoring of him to his just rights and priviledges. Whereunto is annexed, the Kings Majesties last message, to his subjects of England touching the immediate proceedings of the army, briefly intimating his gracious resolution and protestation touching the same. Signed, Charles Rex. Imprimatur, Gilb. Mabbott.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82088</idno>
+            <idno type="STC">Wing D592</idno>
+            <idno type="STC">ESTC R227620</idno>
+            <idno type="EEBO-CITATION">99896975</idno>
+            <idno type="PROQUEST">99896975</idno>
+            <idno type="VID">133138</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82088)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133138)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2465:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from the nobility of the kingdome of Scotland in behalfe of all the commoners of that nation wherein is declared their most loyall resolution, concerning (their dread soveraigne) the Kings most Excellent Majesty. Together with their desires to both houses of Parliament, touching the preservation of His Majesties royall person, and restoring of him to his just rights and priviledges. Whereunto is annexed, the Kings Majesties last message, to his subjects of England touching the immediate proceedings of the army, briefly intimating his gracious resolution and protestation touching the same. Signed, Charles Rex. Imprimatur, Gilb. Mabbott.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for E. Norton, and are to be sold neere the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133138:1"/>
+            <p>A DECLARATION FROM THE NOBILITY OF THE KINGDOME OF SCOTLAND IN Behalfe of all the Commoners of that Nation; Wherein is declared their moſt Loyall Reſolution, con<g ref="char:EOLhyphen"/>cerning (their Dread Soveraigne) the Kings moſt Excellent Majeſty.</p>
+            <p>Together with their Deſires to both Houſes of PARLIAMENT, touching the preſervation of His Maje<g ref="char:EOLhyphen"/>ſties Royall Perſon, and reſtoring of Him to His juſt Rights and Priviledges.</p>
+            <p>
+               <hi>Whereunto is annexed,</hi>
+            </p>
+            <p>The Kings Majeſties laſt Meſſage, to His Subjects of ENGLAND touching the immediate proceedings of the Army, briefly intimating His Gracious Reſolution and Prote<g ref="char:EOLhyphen"/>ſtation touching the ſame. Signed, CHARLES REX.</p>
+            <floatingText type="license" xml:lang="lat" subtype="imprimatur">
+               <body>
+                  <p>
+                     <hi>Imprimatur,</hi>
+                  </p>
+                  <closer>
+                     <signed>Cilb. Mabbotr.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>LONDON, Printed for E. NORTON, and are to be ſold neere <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Royall Exchange in Cornhill. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declarations">
+            <div type="declaration">
+               <pb facs="tcp:133138:2"/>
+               <pb facs="tcp:133138:2"/>
+               <head>
+                  <hi>A Declaration from the Nobility of the Kingdome of</hi> Scotland, concerning the preſervation of the Kings Majeſties Royall Perſon.</head>
+               <p>THE Kingdome of Scotland finding that their ſta<g ref="char:EOLhyphen"/>bility and happineſſe doth ſo much depend upon the ſafety and preſervation of his Maiesties Roy<g ref="char:EOLhyphen"/>all perſon; And being reſolved, that no alteration of affaires ſhall ever ſeparate them from that duty and al<g ref="char:EOLhyphen"/>legiance they owe unto him, nor from their conſtant Reſolu<g ref="char:EOLhyphen"/>tion to live in all loyalty and obedience under his Govern<g ref="char:EOLhyphen"/>ment, have often ſhewne their earneſt deſires, and contri<g ref="char:EOLhyphen"/>buted their utmoſt endeavours, towards the compoſure of theſe unhappy differences.</p>
+               <p>And the Houſes of Parliament having by their Votes of the <hi>26.</hi> of October laſt intimated unto us their riſolutions to apply themſelves to his Maiesty, and that they are pre<g ref="char:EOLhyphen"/>paring Propoſitions to be tendered to Him.</p>
+               <pb facs="tcp:133138:3"/>
+               <p>We do deſire that they may be expedited, and communica<g ref="char:EOLhyphen"/>ted to us; that according to our many engagements, and re<g ref="char:EOLhyphen"/>lations, there maybe still a conjunction of Councels in thoſe things, that are for the common peace and joynt interests of both Kingdomes.</p>
+               <p>And for the better nſserting of them, and clearing His Maiesties doubts, and for the giving and receiving mu<g ref="char:EOLhyphen"/>tuall ſatisfaction: We do doſire (in the name of the Kingdom of Scotland) that there may be a ſpeedy and perſonall trea<g ref="char:EOLhyphen"/>ty with his Maieſty, as the beſt and readieſt meanes to ob<g ref="char:EOLhyphen"/>tain the joynt Deſires of both Kingdomes.</p>
+               <p>Theſe we conceive to be the moſt probable and effectuall meanei for attaining an happy peace, ſetling of Religion, reſtoring his Maieſty to his juſt Rights, and continuing and ſtrengthning a good underſtanding betwixt theſe king<g ref="char:EOLhyphen"/>domes, which are moſt earneſtly deſired by the Kingdome of Scotland.</p>
+               <closer>
+                  <signed>By the appointment of the Commiſ<g ref="char:EOLhyphen"/>ſioners from he Kingdome of <hi>Scotland.</hi>
+                     <list>
+                        <item>
+                           <hi>Lowden,</hi>
+                        </item>
+                        <item>
+                           <hi>Lauderdaill,</hi>
+                        </item>
+                        <item>
+                           <hi>Charles Erskin,</hi>
+                        </item>
+                        <item>
+                           <hi>Hugh Kennedy,</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Bu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>clay,</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="declaration">
+               <pb facs="tcp:133138:3"/>
+               <head>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Kings Majeſties Proteſtation to his Subjects of England, concerning the late proceedings of the Army touching his Royall Perſon.</head>
+               <p>LIberty being that which in all times hath been, but eſpecially now, is the common Theame, and de<g ref="char:EOLhyphen"/>ſire of all men. Common reaſon ſhewes that Kings leſſe then any ſhould indure captivity, and yet I call God and the world to witneſſe, with what patience I have endured a tedious reſtraint, which ſo long as I had any hopes that this ſort of my ſufferings might con<g ref="char:EOLhyphen"/>duce to the Peace of my Kingdome, or the hindering of more effuſion of bloud; I did willingly undergoe: Bus now finding by too certain proofes, that this my continued patience would not only turn to my perſo<g ref="char:EOLhyphen"/>nall ruine, but likewiſe be of much more prejudice than furtherance to the publique good.</p>
+               <p>I thought I was bound, as well by naturall as politi<g ref="char:EOLhyphen"/>call obligations to ſeek my ſafetp; by retiring my ſelf for ſome time from the publique view, both of my friends and enemins. And I appeale to all indifferent men, to judge if I have nor juſt cauſe to faee my ſelfe from the hands of thoſe who change their principles with their condition; and who are not aſhamed openly to intend the deſtruction of Nobility, by taking a<g ref="char:EOLhyphen"/>way
+<pb facs="tcp:133138:4"/>their negative voice, and with whom the Ievellers doctrin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is rather countenanced then puniſhed.</p>
+               <p>And as for their intentions to my perſon, their chan<g ref="char:EOLhyphen"/>ging and putting more ſtrict guards upon me, with the diſcharging moſt of all thoſe ſervants of mine, who formerly they willing admitted to wait upon me, doth ſufficiently declare: Nor would I have this my retire<g ref="char:EOLhyphen"/>ment miſ-interpreted, for I ſhall earneſtly and inceſ<g ref="char:EOLhyphen"/>ſantly endeavour the ſetling of a ſafe and well-grounded peace, where ever I am, or ſhall be; And that, as much as may be, without the effuſion of more. Chriſtian blood, for which how many times have I deſired, preſt to be heard, and yet no eare given to me.</p>
+               <p>And can any reaſonable men think that according to the ordinary courſe of affaires, there can be a ſetled peace without it; or that God will bleſſe thoſe who refuſe to heare their own King, ſurely not?</p>
+               <p>Nay I muſt further adde, That beſides what con<g ref="char:EOLhyphen"/>cernes my ſelfe, unleſſe all other chief intereſts have not only an hearing, but likewiſe juſt ſatisfaction gi<g ref="char:EOLhyphen"/>ven unto them, to wit, the Presbyterians, Independents, Army, thoſe who have adhered to me, even the Scots) I ſay there cannot (I ſpeak not of miracles, it being of my opinion, a ſinfull preſumption, in ſuch caſes to expect or truſt to them) be a ſafe or laſting peace.</p>
+               <p>Now as I cannot deny but that my perſonall ſecuri<g ref="char:EOLhyphen"/>ty is the urgent cauſe of this my retirement, ſo I take God to witneſſe that the publipue peace is no leſſe be<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:133138:4"/>mine eyes; And I can find no better way to ex<g ref="char:EOLhyphen"/>preſſe this my profeſſion (I know not what a wiſer man may doe) then by deſiring and urging, that all chiefe intereſts may be heaad, to the end each may haue juſt ſatisfaction.</p>
+               <p>As for example; <hi>The Army: for the reſt; though ne<g ref="char:EOLhyphen"/>ceſsary, yet I ſuppoſe are not difficult to conient, ought, in my judgement, to enjoy the liberty of their Conſciences, have an Act of Oblivion, or Indempnity, which ſhould ex<g ref="char:EOLhyphen"/>tend to all the reſt of my Subjects, And that all their Ar<g ref="char:EOLhyphen"/>reares ſhould be ſpeedily and duely paid, which I will un<g ref="char:EOLhyphen"/>dertake to doe, ſo I may be heard, And that I be not hin<g ref="char:EOLhyphen"/>dered from uſing ſuch lawfull and honeſt meanes, as I ſhall chooſe.</hi>
+               </p>
+               <p>
+                  <hi>To conclude, let me be heard with freedome, honour, and ſafety, and I ſhall inſtantly break through this cloud of re<g ref="char:EOLhyphen"/>tirement, and ſhew my ſelf really to be</hi> Pater Patriae.</p>
+               <closer>
+                  <signed>CHARLES REX. <hi>For the Speaker of the Lords,</hi> pro tempore, <hi>to be commu<g ref="char:EOLhyphen"/>municatsd to the Lords and Commons in the Parliament of</hi> England <hi>at</hi> Weſtminſter, <hi>and the Commiſsionert of the Parliament of</hi> Scotland: <hi>And to all my other Subjects of what degree or calling ſoever.</hi> CHARLES RER.</signed>
+               </closer>
+               <postscript>
+                  <pb facs="tcp:133138:5"/>
+                  <p>THis day, being the fifteenth of this in<g ref="char:EOLhyphen"/>ſtant moneth, the generall Randezvouze began at <hi>Ware,</hi> and the reſt of the townes ad<g ref="char:EOLhyphen"/>jacent, where was a great appearance, both of Officers and Souldiers, the Generall is to bee there in perſon, and (as its ſaid) hath much to declare unto the ſouldiery, concerning the pre<g ref="char:EOLhyphen"/>ſent affaires of the Kingdome, and a ſpeedy compoſure of all differences, &amp;c.</p>
+                  <p>The diſſenting party of the Army that firſt revolted from the Generall, are encreaſed to a great number, and have entred into a mutuall Engagement each with other; which Engage<g ref="char:EOLhyphen"/>ment, each Officer and Souldier, throughout the reſpective Ragiments in the Army, wea<g ref="char:EOLhyphen"/>reth a Copy thereof in their hats, with this Motto prefixed thereon, <hi>Englands Freedome, Souldiers Rights.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
